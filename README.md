@@ -1,4 +1,4 @@
-# Train_Scheduler_Firebase
+# Train_Scheduler
 
 Firebase Application to accept input from user to create a fictional train list and calculate the next train and minutes away.
 
