@@ -20,6 +20,10 @@ Firebase Application to accept input from user to create a fictional train list 
 * Visual studio code editor- Text editor
 * Materialize - Wireframe
 
+## Demo
+
+The demo of the Train_Scheduler can be found [here](https://snavdeepsingh.github.io/Train_Scheduler/).
+
 ## Authors
 
 * **Navdeep Singh** - *HTML/CSS/JS* - [Navdeep Singh](https://github.com/snavdeepsingh)
